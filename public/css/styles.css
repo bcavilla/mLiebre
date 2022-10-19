@@ -209,9 +209,7 @@ footer {
     main section article .description{
         display: block;
     }
-    h4 .description{
-        display: none;
-    }
+
     .main-navbar{
         display: flex;
         justify-content: space-between;
